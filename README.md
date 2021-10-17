@@ -1,3 +1,3 @@
 # hello-world
-m a new who learning the code
-I need something change！
+m a new who learning the code and,
+I know I need something change！
